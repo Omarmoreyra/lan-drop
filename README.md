@@ -19,7 +19,7 @@ Servidor local simple para compartir archivos entre dispositivos en la misma red
 ## Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/lan-drop.git
+git clone https://github.com/Omarmoreyra/lan-drop.git
 cd lan-drop
 python3 -m venv venv
 source venv/bin/activate
