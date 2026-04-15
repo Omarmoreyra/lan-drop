@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables sensibles
+.env
+
+# Archivos generados
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+
+# QR generado (opcional)
+server_qr.png
+
+# Carpetas de archivos (opcional si no querés subirlos)
+compartidos/
+descargas/
